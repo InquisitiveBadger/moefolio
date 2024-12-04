@@ -8,3 +8,5 @@ longform:
   sceneTemplate: templates/default note.md
   ignoredFiles: []
 ---
+
+Hello, World!
