@@ -56,6 +56,7 @@ This part of the configuration concerns anything that can affect the whole site.
     - `tertiary`: hover states and visited [[graph view|graph]] nodes
     - `highlight`: internal link background, highlighted text, [[syntax highlighting|highlighted lines of code]]
     - `textHighlight`: markdown highlighted text background
+    - 
 
 ## Plugins
 

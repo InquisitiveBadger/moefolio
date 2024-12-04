@@ -11,7 +11,7 @@ This plugin provides support for [ox-hugo](https://github.com/kaushalmodi/ox-hug
 
 This plugin accepts the following configuration options:
 
-- `wikilinks`: If `true` (default), converts Hugo `{{ relref }}` shortcodes to Quartz [[wikilinks]].
+- `wikilinks`: If `true` (default), converts Hugo `{{ relref }}` shortcodes to Quartz [[docs/features/wikilinks]].
 - `removePredefinedAnchor`: If `true` (default), strips predefined anchors from headings.
 - `removeHugoShortcode`: If `true` (default), removes Hugo shortcode syntax (`{{}}`) from the content.
 - `replaceFigureWithMdImg`: If `true` (default), replaces `<figure/>` with `![]()`.
