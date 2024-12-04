@@ -1,6 +1,7 @@
 ---
 title: Content Strategy & Marketing
-aliases: 
+aliases:
+  - content-strategy
 description: An index file for the Content Strategy & Marketing landing page
 date: 
 draft: false
