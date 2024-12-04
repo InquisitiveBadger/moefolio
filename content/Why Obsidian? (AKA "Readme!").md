@@ -1,5 +1,5 @@
 ---
-title: 
+title: Why Obsidian? (AKA "Readme!")
 aliases:
   - readme
 description: A readme file explaining the site's purpose and why Obsidian was used
