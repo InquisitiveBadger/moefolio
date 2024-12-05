@@ -4,7 +4,8 @@ aliases:
 description: 
 date: 
 draft: 
-tags:
+tags: 
+isPublic: "false"
 ---
 
 
