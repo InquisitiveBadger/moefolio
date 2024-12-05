@@ -9,4 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-hotkeys-guide/
+guides/
+inbox/
+files/
+templates/
