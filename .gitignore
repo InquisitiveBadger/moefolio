@@ -12,7 +12,7 @@ replit.nix
 guides/
 inbox/
 files/
-templates
+templates/
 projects/
 meetings/
-docs
+docs/
