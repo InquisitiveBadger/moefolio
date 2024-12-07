@@ -1,5 +1,5 @@
 ---
-title: Why Obsidian? (or "Readme")
+title: Why Obsidian? (or 'readme')
 aliases:
   - readme
   - why-obsidian-?
