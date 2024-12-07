@@ -1,7 +1,7 @@
 ---
 title: test skills
 aliases:
-  - skills-test-skills-page
+  - test-skills
 description: 
 date: 2024-12-05
 draft: false
