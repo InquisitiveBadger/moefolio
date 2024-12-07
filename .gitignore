@@ -9,5 +9,11 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+guides/
+inbox/
 files/
+projects/
+meetings/
+templates/
 notes/
+readwise highlights/
