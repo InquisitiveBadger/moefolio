@@ -2,10 +2,10 @@
 title: test skills
 aliases: 
 description: 
-date: 
+date: 2024-12-05
 draft: false
 tags: 
-isPublic: "false"
+isPublic: "true"
 ---
 
 
