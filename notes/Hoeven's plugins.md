@@ -1,4 +1,4 @@
-
+    
 1. Admonition: Creates customizable callouts within notes, allowing for collapsible sections and visual emphasis.
 
 2. Advanced Slides: Enables creation of markdown-based presentations directly within Obsidian.
@@ -90,5 +90,3 @@
 45. Text Generator: Integrates AI-powered text generation capabilities into Obsidian for assisted writing.
 
 46. Vault Changelog: Automatically tracks and logs changes made to notes in the vault, useful for version control.
-
-
