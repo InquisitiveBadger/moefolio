@@ -1,11 +1,11 @@
 ---
 title: test skills
-aliases: 
+aliases:
+  - skills-test-skills-page
 description: 
 date: 2024-12-05
 draft: false
-tags: 
-isPublic: "true"
+tags:
 ---
 
 
