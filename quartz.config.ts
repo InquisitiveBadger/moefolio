@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { ExplicitPublish } from './quartz/plugins/filters/explicit';
 
 /**
  * Quartz 4.0 Configuration
@@ -17,7 +18,8 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+
+    ignorePatterns: ["private", "templates", ".obsidian", "scripts"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
@@ -74,7 +76,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
