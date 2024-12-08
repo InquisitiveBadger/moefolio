@@ -1,7 +1,7 @@
 ---
 title: Overview
 aliases:
-  - writing-samples
+  - ws-overview
 description: 
 date: 2024-12-07
 draft: false

@@ -1,12 +1,9 @@
 ---
-title: Why Obsidian? (or 'readme')
+title: Why Obsidian? (AKA "readme")
 aliases:
   - readme
-  - why-obsidian-?
+  - why-obsidian
 description: A readme file explaining the site's purpose and why Obsidian was used
 date: 
 draft: false
 ---
-
-
-
