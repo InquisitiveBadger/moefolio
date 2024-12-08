@@ -6,10 +6,10 @@ prof
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
+.images
 private/
 .replit
-replit.nix
-guides/
+.replit.nix
 inbox/
 files/
 projects/
