@@ -105,3 +105,4 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   FolderContent.css = style + PageList.css
   return FolderContent
 }) satisfies QuartzComponentConstructor
+
