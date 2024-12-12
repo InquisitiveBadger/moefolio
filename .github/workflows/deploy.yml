@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - v4
+      - style-tests
  
 permissions:
   contents: read
