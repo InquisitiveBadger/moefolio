@@ -57,7 +57,12 @@ export const defaultListPageLayout: PageLayout = {
         } else {
           return 1
         }
-}})),
+      },
+      mapFn: (node) => {
+        node.displayName = node.displayName.toUpperCase()
+      },
+
+})),
   ],
   right: [],
 }
