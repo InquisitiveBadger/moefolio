@@ -1,19 +1,25 @@
 ---
 title: Moe's Digital Garden and Portfolio
 description: The home page for Moefolio
-permalink: 
+permalink: /
 aliases: []
 tags: 
 publish: true
 date:
 ---
-# Hooooow
-## How
+## Welcome to my site!
+### H3 
 
-### Does
 
-#### It
 
-##### Look?
+Body text
+
+## H2
+
+### H3
+
+#### H4
+
+##### H5
 
 Is this thing on?! Testing

@@ -1,3 +1,53 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// TEXT STYLING
+
+h1 {
+    font-size: 2.25rem; /* 36px */
+    line-height: 1.2;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    word-spacing: -0.05em;
+   }
+   
+h2 {
+    font-family: 'Outfit', sans-serif; 
+    font-size: 1.5rem; /* 24px */
+    line-height: 1.3;
+    font-weight: 600; /* Medium */
+    letter-spacing: -0.01em;
+    word-spacing: -0.02em;
+   }
+   
+h3 {
+    font-size: 1.25rem; /* 20px */
+    line-height: 1.4;
+    letter-spacing: -0.01em;
+   }
+   
+   /* H4 and H5 were not specified in the document but following the pattern: */
+h4 {
+    font-size: 1.125rem; /* 18px */
+    line-height: 1.4;
+   }
+   
+h5 {
+    font-size: 1rem; /* 16px */ 
+    line-height: 1.4;
+   }
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem; /* 16px */
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: 0;
+    word-spacing: 0;
+   }
+   
+   /* For emphasis */
+strong, b {
+    font-weight: 600;
+   }
