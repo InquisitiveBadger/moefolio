@@ -1,7 +1,8 @@
 ---
+title: Moe's Digital Garden and Portfolio
 description: The home page for Moefolio
 permalink: 
-aliases: 
+aliases: []
 tags: 
 publish: true
 date:
@@ -15,4 +16,4 @@ date:
 
 ##### Look?
 
-Is this thing on?! Testing 
+Is this thing on?! Testing
