@@ -48,21 +48,8 @@ export const defaultListPageLayout: PageLayout = {
     // Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      sortFn: (a, b) => {
-        if ((!a.file && !b.file) || (a.file && b.file)) {
-          return a.displayName.localeCompare(b.displayName)
-        }
-        if (a.file && !b.file) {
-          return -1
-        } else {
-          return 1
-        }
-      },
-      mapFn: (node) => {
-        node.displayName = node.displayName.toUpperCase()
-      },
-
-})),
+      title: "Pages"
+    })),
   ],
   right: [],
 }
